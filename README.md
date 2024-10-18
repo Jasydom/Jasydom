@@ -8,8 +8,6 @@
 
 - 🧩 Fun fact: I love <u>solving puzzles and games</u>, so you’ll find plenty of challenges on this page featuring well-known problems like Sudoku and chess.
 
-- 🌱 The creation of this github profile marks the start of an exciting adventure in the world of IT after completing my studies. Let's see where it takes me! 🚀
-
   
 
 <!-- lvl 2 : Adding skills -->
