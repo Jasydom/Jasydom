@@ -14,17 +14,5 @@
 
 ## 🌐 Socials:
 
-(https://www.linkedin.com/in/adrien-montaigne/) [Adrien Montaigne](https://www.linkedin.com/in/adrien-montaigne/)
+Linkedin :  [Adrien Montaigne](https://www.linkedin.com/in/adrien-montaigne/)
 
-
-
-  
-
-
-  
-
-### 📊 GitHub Stats:
-
-![Mathis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasydom&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasydom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
