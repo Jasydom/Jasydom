@@ -15,4 +15,5 @@
 ## 🌐 Socials:
 
 Linkedin :  [Adrien Montaigne](https://www.linkedin.com/in/adrien-montaigne/)
+Mail : pro.montaigne.a@gmail.com
 
