@@ -1,22 +1,30 @@
-<!-- lvl 1 : Simple bio and stats -->
+# Hi, I'm Adrien 👋
 
-## Hi, I'm Adrien 👋
+**Data Science & AI Engineer** · CY Tech graduate · Machine Learning, NLP & big data
 
-- 🎓 I hold a degree in <u>Artificial Intelligence</u> and  <u>Data Science</u> from CY Tech engineering school.
+I build models that turn data into decisions, and I keep sharpening my ML skills through hands-on projects. Outside of work, I like puzzles and games, especially chess.
 
-- 🔭 Currently focused on enhancing my <u>Machine Learning</u> skills through hands-on projects.
+<br>
 
-- 🧩 Fun fact: I love <u>solving puzzles and games</u>, so you’ll find plenty of challenges on this page featuring well-known problems like Sudoku and chess.
+## 🛠️ Skills
 
-  
+| | |
+|---|---|
+| **Machine Learning** | Random Forest, SVM, logistic regression, hyperparameter tuning |
+| **Deep Learning** | PyTorch, CNN, LSTM, transfer learning |
+| **NLP** | BERT, DistilBERT, sentiment analysis, fake news detection |
+| **Languages** | Python, SQL, R, FastAPI |
+| **Data & Cloud** | GCP, Azure, BigQuery, Airflow, Docker |
+| **BI** | Power BI, R Shiny, Looker |
 
-<!-- lvl 2 : Adding skills -->
+<br>
 
-## 🌐 Socials:
+## ♟️ Featured project
 
-Linkedin :  [Adrien Montaigne](https://www.linkedin.com/in/adrien-montaigne/)
+**[ChessBot](https://github.com/Jasydom/chessbot)**: a chess engine in Python with alpha-beta search, playable in the browser, connected to Lichess, with a NNUE neural network prototype.
 
-Mail : pro.montaigne.a@gmail.com
+<br>
 
-Portefolio : [Adrien Montaigne](https://jasydom.github.io/Portefolio/)
+## 📫 Get in touch
 
+[Portfolio](https://jasydom.github.io/Portefolio/) · [LinkedIn](https://www.linkedin.com/in/adrien-montaigne/) · [Email](mailto:pro.montaigne.a@gmail.com)
